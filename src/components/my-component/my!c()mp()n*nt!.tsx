@@ -1,5 +1,5 @@
 import { Component, Prop, h } from '@stencil/core';
-import { format } from '../../utils/utils';
+import { format } from '../../utils/!*uti\'ls()';
 
 @Component({
   tag: 'my-component',
