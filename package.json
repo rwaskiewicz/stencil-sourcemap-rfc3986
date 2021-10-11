@@ -22,7 +22,7 @@
     "generate": "stencil generate"
   },
   "dependencies": {
-    "@stencil/core": "^2.7.0"
+    "@stencil/core": "file:../../../stencil/stencil-core-2.9.0-0.tgz"
   },
   "devDependencies": {
     "@types/jest": "^26.0.24",
