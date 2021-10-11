@@ -2,6 +2,8 @@ import { Config } from '@stencil/core';
 
 export const config: Config = {
   namespace: 'rfc-3986-example',
+  sourceMap: true,
+  minifyJs: true,
   outputTargets: [
     {
       type: 'dist',
